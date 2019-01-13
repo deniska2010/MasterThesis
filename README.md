@@ -1,2 +1,2 @@
-# Master-Thesis
+# MasterThesis
 Master Dissertation for HSE 
